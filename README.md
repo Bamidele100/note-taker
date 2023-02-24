@@ -7,7 +7,11 @@ This app is a modified starter code, it is called note taker. The app implements
 ![alt text](./assets/image.png)
 
 
-## Deployed URL:
+## Deployed URL and Repository:
+
+https://bamidele100.github.io/note-taker/
 
 https://github.com/Bamidele100/note-taker.git
+
+
 
